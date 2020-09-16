@@ -1,0 +1,13 @@
+C:\Users\denni\source\repos\TheForest\bin\Debug\netcoreapp3.1\TheForest.exe
+C:\Users\denni\source\repos\TheForest\bin\Debug\netcoreapp3.1\TheForest.deps.json
+C:\Users\denni\source\repos\TheForest\bin\Debug\netcoreapp3.1\TheForest.runtimeconfig.json
+C:\Users\denni\source\repos\TheForest\bin\Debug\netcoreapp3.1\TheForest.runtimeconfig.dev.json
+C:\Users\denni\source\repos\TheForest\bin\Debug\netcoreapp3.1\TheForest.dll
+C:\Users\denni\source\repos\TheForest\bin\Debug\netcoreapp3.1\TheForest.pdb
+C:\Users\denni\source\repos\TheForest\obj\Debug\netcoreapp3.1\TheForest.csprojAssemblyReference.cache
+C:\Users\denni\source\repos\TheForest\obj\Debug\netcoreapp3.1\TheForest.AssemblyInfoInputs.cache
+C:\Users\denni\source\repos\TheForest\obj\Debug\netcoreapp3.1\TheForest.AssemblyInfo.cs
+C:\Users\denni\source\repos\TheForest\obj\Debug\netcoreapp3.1\TheForest.csproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\TheForest\obj\Debug\netcoreapp3.1\TheForest.dll
+C:\Users\denni\source\repos\TheForest\obj\Debug\netcoreapp3.1\TheForest.pdb
+C:\Users\denni\source\repos\TheForest\obj\Debug\netcoreapp3.1\TheForest.genruntimeconfig.cache
